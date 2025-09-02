@@ -38,8 +38,9 @@ public class GPA {
         double GPA = TQP / TCH;
         System.out.println("Your GPA: "+GPA);
         
-
+//should add notes so you dont forget!
         
         
     }
 }
+
